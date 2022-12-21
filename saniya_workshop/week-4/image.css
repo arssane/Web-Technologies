@@ -1,0 +1,14 @@
+
+img {
+    position: relative;
+    left: 400px;
+    border-radius: 50%;
+    width: 800px;
+    height: 600px;
+    background-size: cover;
+
+}
+body{
+    background-color: burlywood;
+}
+    
