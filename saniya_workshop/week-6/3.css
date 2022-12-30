@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(242, 175, 52);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.heading{
+    text-align: center;
+    padding-top: 70px;
+}
+
+h1{
+    font-size:50px;
+    font-weight: 800;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h5{
+    padding-top: 30px;
+    font-weight: 7000;
+    font-size: 18px;
+}
+
+.block{
+    display: flex;
+
+}
+
+.onephase{
+      width: 40%;
+      text-align: center;
+    }
+
+.secphase{
+    width: 40%;
+    text-align: center;
+}
+
+.thirdphase{
+    width: 40%;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+}
+
+.first-info{
+    padding-top: 20px;
+}
+
+.second-info{
+    padding-top: 20px;
+}
+
+.third-info{
+    padding-top: 20px;
+}
+
+p{
+    padding-top: 4px;
+    font-size:18px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
